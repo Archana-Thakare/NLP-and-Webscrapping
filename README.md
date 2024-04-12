@@ -1,5 +1,6 @@
 # NLP-and-Webscrapping
 This analyzes the webpages from page as follows.
+
 1	Sentimental Analysis
 Sentimental analysis is the process of determining whether a piece of writing is positive, negative, or neutral. The below Algorithm is designed for use in Financial Texts. It consists of steps:
 1.1	Cleaning using Stop Words Lists
